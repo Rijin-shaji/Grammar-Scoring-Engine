@@ -1,0 +1,10 @@
+numpy
+pandas
+librosa
+scikit-learn
+scipy
+matplotlib
+tqdm
+transformers
+torch
+spacy
