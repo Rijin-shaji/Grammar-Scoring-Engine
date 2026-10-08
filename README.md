@@ -33,6 +33,10 @@ Baseline RMSE: 1.2382
 
 Python, Whisper, Librosa, spaCy, Pandas, NumPy, Scikit learn
 
+##Setup
+pip install -r requirements.txt
+python -m spacy download en_core_web_sm
+
 ## Dataset
 
 769 training samples and 216 test samples of spoken English audio.
